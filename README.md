@@ -8,7 +8,7 @@ It displays at most a maximum number of messages to which the limit is set.
 You can connect the contributors directly for the website via linked in.
 There is a  feature added that you can create a new home page from the existing home page without losing  its content.
 # contributors
-Dinesh Reddy -
-Mourya -
-Rishika -
-Dharmik 
+[Dinesh Reddy] (https://github.com/poreddydineshreddy)
+[Mourya] (https://github.com/Mourya-2602)
+[Rishika] (https://github.com/2005Rishika) 
+[Dharmik] (https://github.com/Dharmik203262) 
