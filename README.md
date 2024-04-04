@@ -6,7 +6,7 @@ Chat bot is a web-application and message saving tool in which the user can arra
 This application is built based on the concepts of LRU algorithm of the Operating Systems course.
 It displays at most a maximum number of messages to which the limit is set. 
 You can connect the contributors directly for the website via linked in.
-There is a  feature given that you can create a new home page from the existing home page without losing content.
+There is a  feature added that you can create a new home page from the existing home page without losing  its content.
 # contributors
 Dinesh Reddy -
 Mourya -
